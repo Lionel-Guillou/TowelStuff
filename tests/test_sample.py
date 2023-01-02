@@ -1,4 +1,5 @@
 import pytest
+from towelstuff import my_functions
 
 class Fruit:
     def __init__(self, name):
